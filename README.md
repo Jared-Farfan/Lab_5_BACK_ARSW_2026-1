@@ -19,7 +19,7 @@ el primer backend para usar p5 en el front con spring en backend y un segundo ba
 
 ### Spring
 
-- En la terminal ejecutar  `cd Lab_5_back_spring`, `npm i` y `npm run start`
+- En la terminal ejecutar  `cd Lab_5_back_spring`, `mvn clean install` y `.\mvnw spring-boot:run`
 - Ejecuta el [Front](https://github.com/Jared-Farfan/Lab_5_FRONT_ARSW_2026-1) 
 - Verifica que en el arichivo main.jsx estes usando el `P5`
 - Ejecutar front `npm i`,  `npm run dev`
